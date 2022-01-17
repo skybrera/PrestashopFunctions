@@ -1,17 +1,17 @@
 {
-    "name": "devster/prestashop_service",
+    "name": "skybrera/prestashop_service",
     "description": "Set of function and utils to manage a e-shop built with Prestashop via webservice",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "devsterit",
-            "email": "hi@devster.it"
+            "name": "Skybrera",
+            "email": "info@stefanosponsillo.net"
         }
     ],
      "autoload" : {
         "psr-4" : {
-            "Devster\\Prestaservice\\" : "src/"
+            "Skybrera\\Prestaservice\\" : "src/"
         }
     },
     "minimum-stability": "stable",
