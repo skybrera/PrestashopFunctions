@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Devster\Prestaservice;
+namespace Skybrera\Prestaservice;
 
 
-use Devster\Prestaservice\PrestaShopWebservice;
-use Devster\Prestaservice\PrestaShopWebserviceException;
+use Skybrera\Prestaservice\PrestaShopWebservice;
+use Skybrera\Prestaservice\PrestaShopWebserviceException;
 
 
 

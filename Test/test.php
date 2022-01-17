@@ -1,7 +1,7 @@
 <?php
 
-use Devster\Prestaservice\PrestashopFunctions;
-use Devster\Prestaservice\PrestaShopWebservice;
+use Skybrera\Prestaservice\PrestashopFunctions;
+use Skybrera\Prestaservice\PrestaShopWebservice;
 
 
 require __DIR__ . '/../vendor/autoload.php';

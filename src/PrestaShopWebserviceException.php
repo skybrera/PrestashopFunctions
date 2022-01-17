@@ -26,7 +26,7 @@
 * @package PrestaShopWebservice
 */
 // NAMESPACE ADDED
-namespace Devster\Prestaservice;
+namespace Skybrera\Prestaservice;
 
 /**
  * @package PrestaShopWebservice
