@@ -1,0 +1,19 @@
+{
+    "name": "devster/prestashop_service",
+    "description": "Set of function and utils to manage a e-shop built with Prestashop via webservice",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "devsterit",
+            "email": "hi@devster.it"
+        }
+    ],
+     "autoload" : {
+        "psr-4" : {
+            "Devster\\Prestaservice\\" : "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
