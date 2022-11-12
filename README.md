@@ -11,7 +11,7 @@
 
   Per eliminare questi problemi ed uniformare il package ho aggiunto alla libreria ufficiale del team (PSWebServiceLibrary.php) le seguenti modifiche:
 
-   - namespace Devster\Prestaservice;
+   - namespace Skybrera\Prestaservice;
    - In fondo la riga
       class PrestaShopWebserviceException extends Exception { }
         diventa
